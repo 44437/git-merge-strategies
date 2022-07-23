@@ -25,3 +25,4 @@ git merge -X theirs theirs_merge
 ```
 
 resolve 1
+resolve 2
