@@ -16,3 +16,4 @@ recursive 4
 git merge --no-ff branch_name
 ```
 
+theirs merge 1
