@@ -19,3 +19,4 @@ git merge --no-ff branch_name
 ours merge 1
 ours merge 2
 ours merge 3
+ours merge 4
