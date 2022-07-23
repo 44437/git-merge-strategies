@@ -30,3 +30,5 @@ resolve 3
 ```shell
 git merge -s resolve branch_name
 ```
+
+subtree 1
