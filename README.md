@@ -34,3 +34,7 @@ git merge -s resolve branch_name
 subtree 1
 subtree 2
 subtree 3
+```shell
+git merge -s subtree branch_name
+```
+
