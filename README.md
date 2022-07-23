@@ -25,3 +25,4 @@ git merge -X theirs theirs_merge
 ```
 
 octopus 2 1
+octopus 2 2
