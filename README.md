@@ -23,3 +23,5 @@ theirs merge 4
 ```shell
 git merge -X theirs theirs_merge
 ```
+
+octopus 3 1
