@@ -26,3 +26,4 @@ git merge -X theirs theirs_merge
 
 octopus 3 1
 octopus 3 2
+octopus 3 3
