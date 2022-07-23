@@ -27,3 +27,6 @@ git merge -X theirs theirs_merge
 resolve 1
 resolve 2
 resolve 3
+```shell
+git merge -s resolve branch_name
+```
