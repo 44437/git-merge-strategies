@@ -17,3 +17,4 @@ git merge --no-ff branch_name
 ```
 
 theirs merge 1
+theirs merge 2
