@@ -20,3 +20,6 @@ ours merge 1
 ours merge 2
 ours merge 3
 ours merge 4
+```shell
+git merge -s ours ours_merge
+```
